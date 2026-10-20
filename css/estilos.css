@@ -1,0 +1,18 @@
+body {
+    background-color: #f2f4f8;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    max-width: 950px;
+}
+
+.table td.nota-alta {
+    color: #146c43;
+    font-weight: bold;
+}
+
+.table td.nota-baja {
+    color: #b02a37;
+    font-weight: bold;
+}
